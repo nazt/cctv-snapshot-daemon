@@ -1,0 +1,1 @@
+# cctv-snapshot-daemon
